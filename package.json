@@ -1,7 +1,7 @@
 {
   "name": "atom-sass",
   "main": "./lib/atom-sass",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Sass compiler for atom.",
   "keywords": [
     "atom",
@@ -9,7 +9,7 @@
     "scss",
     "compile"
   ],
-  "repository": "https://github.com/rehrumesh/atom-sass",
+  "repository": "https://github.com/Bl4Cc4t/atom-sass",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"

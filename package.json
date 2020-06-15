@@ -1,7 +1,7 @@
 {
   "name": "atom-sass",
   "main": "./lib/atom-sass",
-  "version": "0.5.0",
+  "version": "0.5.1",
   "description": "Sass compiler for atom.",
   "keywords": [
     "atom",
